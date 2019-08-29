@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be moises **bold**, _italic_, or ~~strikethrough~~.
+Text can be ssssss **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
@@ -51,12 +51,12 @@ end
 
 ###### Header 6
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| head1        | head two          | three |  holr|
+|:-------------|:------------------|:------|:-----|
+| ok           | good swedish fish | nice  |      |
+| out of stock | good and plenty   | nice  |      |
+| ok           | good `oreos`      | hmm   |      |
+| ok           | good `zoute` drop | yumm  |      |
 
 ### There's a horizontal rule below this.
 
